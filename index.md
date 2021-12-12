@@ -33,8 +33,8 @@
 - **Artifact**  
 <div align="center">  
 Project Folder: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/tree/main/Artifacts/WoWRandomizerArtifact1">WoWRandomizerArtifact1</a>  
-
-Zip file: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/blob/main/Artifacts/ZipFiles/WoWRandomizerArtifact1.zip">WoWRandomizerArtifact1.zip</a>  
+  
+  Zip file: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/blob/main/Artifacts/ZipFiles/WoWRandomizerArtifact1.zip">WoWRandomizerArtifact1.zip</a>  
 </div>  
 		
 **Category Two: Algorithms and Data Structures**
@@ -44,8 +44,8 @@ Zip file: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/blob/main/Ar
 - **Artifact**
 <div align="center">  
 Project Folder: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/tree/main/Artifacts/WoWRandomizerArtifact2">WoWRandomizerArtifact2</a>  
-
-Zip file: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/blob/main/Artifacts/ZipFiles/WoWRandomizerArtifact2.zip">WoWRandomizerArtifact2.zip</a>  
+  
+  Zip file: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/blob/main/Artifacts/ZipFiles/WoWRandomizerArtifact2.zip">WoWRandomizerArtifact2.zip</a>  
 </div>  
 **Category Three: Databases**
 
@@ -54,8 +54,8 @@ Zip file: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/blob/main/Ar
 - **Artifact**
 <div align="center">  
 Project Folder: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/tree/main/Artifacts/WoWRandomizerArtifact3">WoWRandomizerArtifact3</a>  
-
-Zip file: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/blob/main/Artifacts/ZipFiles/WoWRandomizerArtifact3.zip">WoWRandomizerArtifact3.zip</a>  
+  
+  Zip file: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/blob/main/Artifacts/ZipFiles/WoWRandomizerArtifact3.zip">WoWRandomizerArtifact3.zip</a>  
 </div>  
 
 **Link to the GitHub for the Project**  
