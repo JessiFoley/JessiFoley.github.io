@@ -1,10 +1,10 @@
 # Southern New Hampshire University
 ## Computer Science Final Portfolio
 
-######Self-Assessment######
+###Self-Assessment###
 
 
-######Code Review######
+###Code Review###
 <div align="center">
 	<iframe 
 		width="560" 
@@ -22,17 +22,17 @@
 	</iframe>
 </div>
 
-######Category One: Software Engineering/Design######
+###Category One: Software Engineering/Design###
 **Narrative**
 
 **Artifact**
 
-######Category Two: Algorithms and Data Structures######
+###Category Two: Algorithms and Data Structures###
 **Narrative**
 
 **Artifact**
 
-######Category Three: Databases######
+###Category Three: Databases###
 **Narrative**
 
 **Artifact**
