@@ -32,9 +32,9 @@
 </div>
 - **Artifact**  
 <div align="center">  
-<a href="https://github.com/JessiSNHU/JessiSNHU.github.io/tree/main/Artifacts/WoWRandomizerArtifact1>Project Folder</a>  
+Project Folder: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/tree/main/Artifacts/WoWRandomizerArtifact1">WoWRandomizerArtifact1</a>  
 
-<a href="https://github.com/JessiSNHU/JessiSNHU.github.io/blob/main/Artifacts/ZipFiles/WoWRandomizerArtifact1.zip">Zip File</a>  
+Zip file: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/blob/main/Artifacts/ZipFiles/WoWRandomizerArtifact1.zip">WoWRandomizerArtifact1.zip</a>  
 </div>  
 		
 **Category Two: Algorithms and Data Structures**
@@ -42,9 +42,22 @@
 - **Narrative**
 
 - **Artifact**
+<div align="center">  
+Project Folder: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/tree/main/Artifacts/WoWRandomizerArtifact2">WoWRandomizerArtifact2</a>  
 
+Zip file: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/blob/main/Artifacts/ZipFiles/WoWRandomizerArtifact2.zip">WoWRandomizerArtifact2.zip</a>  
+</div>  
 **Category Three: Databases**
 
 - **Narrative**
 
 - **Artifact**
+<div align="center">  
+Project Folder: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/tree/main/Artifacts/WoWRandomizerArtifact3">WoWRandomizerArtifact3</a>  
+
+Zip file: <a href="https://github.com/JessiSNHU/JessiSNHU.github.io/blob/main/Artifacts/ZipFiles/WoWRandomizerArtifact3.zip">WoWRandomizerArtifact3.zip</a>  
+</div>  
+
+**Link to the GitHub for the Project**  
+Github Page: <a href="https://github.com/JessiSNHU/WowRandomizer">WowRandomizer</a>  
+Final Release: <a href="https://github.com/JessiSNHU/WowRandomizer/releases">Releases</a>  
