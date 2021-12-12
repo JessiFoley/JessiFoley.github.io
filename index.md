@@ -2,7 +2,13 @@
 ## Computer Science Final Portfolio
 
 **Self-Assessment**
-
+<div align="left">
+&emsp;I have been in school for a while. Before SNHU I went to two other universities for a short time. At NDSU, I learned more about myself. I found out that I am bipolar and have ADHD. Most would consider these disabilities, but honestly, they have been my biggest strengths for the most part. Because of my bipolar disorder, I have made major life changing decisions that most would be afraid of. I dropped everything and moved halfway across the country for a new start. I have been homeless, and I have had enough money to not care about it. I have met interesting people everywhere I have gone. My ADHD has enabled me to work extremely hard and accurately under short deadlines. I am at my best when I am under pressure. 
+<br>&emsp;My time in school has given me a lot of opportunities which have taught me a lot. I have taken classes on database management and Big Data. I have learned Java, Python, and C++. I have created games like Brick Breaker, and I have made programs like reservation software for a restaurant. I created the Brick Breaker entirely by myself and learned that I have a good eye for UX design. When I created the reservation software, I led a team of four and learned how to divide tasks and delegate work fairly based on the strengths of my group. 
+<br>&emsp;Between school and work, I have learned soft skills like customer relations, money management, and inventory management. These soft skills in addition to many others have taught me what it takes to succeed and be able to produce what the customer is looking for while still ensuring that all the stakeholders are happy. It is a simple thing to turn around a customer’s day, usually they only want to feel that they are heard. What can be difficult is dealing with a vendor who is upset and refusing to bring their product to your store.
+<br>&emsp;My time at SNHU has taught me Agile software development and how to produce work that will continue to live on decades into the future. I have learned how to produce working code that is efficient and still readable by the next developer. Security is one of the biggest concerns in software today because of how valuable data has become. A good security mindset is important from the very inception of the code. When you leave your code vulnerable, you put more at risk than most people ever realize.
+<br>&emsp;My artifact is a pet project that I came up with in my free time while playing the game World of Warcraft. It allows the user to maintain some agency in the randomness of choosing a race and class, but still helps them make the final decision.
+<br></div>
 
 **Code Review**
 <div align="center">
