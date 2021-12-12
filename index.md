@@ -32,9 +32,9 @@
 </div>
 - **Artifact**  
 <div align="center">  
-Project Folder - https://github.com/JessiSNHU/JessiSNHU.github.io/tree/main/Artifacts/WoWRandomizerArtifact1  
+<a href="https://github.com/JessiSNHU/JessiSNHU.github.io/tree/main/Artifacts/WoWRandomizerArtifact1>Project Folder</a>  
 
-Zip File - https://github.com/JessiSNHU/JessiSNHU.github.io/blob/main/Artifacts/ZipFiles/WoWRandomizerArtifact1.zip  
+<a href="https://github.com/JessiSNHU/JessiSNHU.github.io/blob/main/Artifacts/ZipFiles/WoWRandomizerArtifact1.zip">Zip File</a>  
 </div>  
 		
 **Category Two: Algorithms and Data Structures**
