@@ -32,8 +32,8 @@
 </div>
 - **Artifact**
 <div align="center">
-[Project Folder](./Artifacts/WoWRandomizerArtifact1)  
-[Zip File](./Artifacts/ZipFiles/WoWRandomizerArtifact1.zip)
+[Project Folder](/Artifacts/WoWRandomizerArtifact1)  
+[Zip File](/Artifacts/ZipFiles/WoWRandomizerArtifact1.zip)
 </div>
 		
 **Category Two: Algorithms and Data Structures**
