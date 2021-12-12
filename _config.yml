@@ -1,3 +1,5 @@
+relative_links:
+  enabled: true
 theme: jekyll-theme-hacker
 title: Welcome to Jessica Freyberger's portfolio!
 description: CS-499-T2686 Computer Science Capstone 21EW2
