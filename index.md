@@ -30,11 +30,11 @@
 	I have included this project because I know I can do better. I learned how to make a reasonable GUI in Java and so I decided to port the code over to Java and simplify it as much as possible to prepare it for the next steps of adding more options and features to it. Right now, the biggest improvement that has been made is to use a GUI and to make it so that the user can reroll the choice as many times as they want. This new program shows off my skills with Java. I feel like that is important since I prefer to use and write in Java more than any other language. It also helped me learn more about my weakest areas in Java, using and creating a GUI.
 	I feel like I met the course objectives because I took an old program written in Python and was able to rewrite it in Java, while at the same time enhancing what the program could do. I had originally planned many more changes, but time did not allow me to get those finished quite yet. I have learned a lot about best practices and keeping a program simple to help with future updates and coding.
 </div>
-- **Artifact**
-<div align="center">
-[Project Folder](/Artifacts/WoWRandomizerArtifact1)  
-[Zip File](/Artifacts/ZipFiles/WoWRandomizerArtifact1.zip)
-</div>
+- **Artifact**  
+<div align="center">  
+[Project Folder](https://github.com/JessiSNHU/JessiSNHU.github.io/tree/main/Artifacts/WoWRandomizerArtifact1)  
+[Zip File](https://github.com/JessiSNHU/JessiSNHU.github.io/blob/main/Artifacts/ZipFiles/WoWRandomizerArtifact1.zip)  
+</div>  
 		
 **Category Two: Algorithms and Data Structures**
 
