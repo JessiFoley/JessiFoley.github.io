@@ -33,6 +33,7 @@
 - **Artifact**  
 <div align="center">  
 Project Folder - https://github.com/JessiSNHU/JessiSNHU.github.io/tree/main/Artifacts/WoWRandomizerArtifact1  
+
 Zip File - https://github.com/JessiSNHU/JessiSNHU.github.io/blob/main/Artifacts/ZipFiles/WoWRandomizerArtifact1.zip  
 </div>  
 		
